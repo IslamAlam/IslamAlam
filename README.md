@@ -13,10 +13,9 @@ https://raw.githubusercontent.com/icepie/icepie/master/README.md
 IslamAlam/IslamAlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Hi there 👋
 
-👋 Hi, I’m @IslamAlam 
-
-Just call me Islam
+I’m @IslamAlam; Just call me Islam
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/imansour?color=gr&label=PGP)
 
