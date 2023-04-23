@@ -39,6 +39,8 @@ My passion lies in space technology and engineering, and I have a keen interest 
 [<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="25"/>](https://isocpp.org/)
 [<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab" height="25"/>](https://www.mathworks.com/products/matlab.html)
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="25"/>](https://www.java.com/)
+[<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="25"/>](https://www.r-project.org/)
+
 
 <!-- [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="25"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="25"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -60,28 +62,6 @@ My passion lies in space technology and engineering, and I have a keen interest 
 [<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" height="25"/>](https://kubernetes.io/)
 [<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" height="25"/>](https://www.jenkins.io/)
 
-<!--
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/console.png" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google-cloud" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins" width="40" height="40"/>
-  </a>
-</p> -->
-
 ## Machine Learning/Deep Learning/Vision Libraries
 
 [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="25"/>](https://www.tensorflow.org/)
@@ -90,29 +70,6 @@ My passion lies in space technology and engineering, and I have a keen interest 
 [<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white" alt="scikit-learn" height="25"/>](https://scikit-learn.org/stable/)
 [<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="25"/>](https://opencv.org/)
 [<img src="https://img.shields.io/badge/scikit--image-0C449C?style=for-the-badge&logo=scikit-image&logoColor=white" alt="scikit-image" height="25"/>](https://scikit-image.org/)
-
-<!-- [<img src="https://img.shields.io/badge/Caffe-FFA54B?style=for-the-badge&logo=caffe&logoColor=white" alt="Caffe" height="25"/>](https://caffe.berkeleyvision.org/) -->
-<!-- [<img src="https://img.shields.io/badge/Theano-DD654E?style=for-the-badge&logo=theano&logoColor=white" alt="Theano" height="25"/>](http://deeplearning.net/software/theano/) -->
-<!-- [<img src="https://img.shields.io/badge/MXNet-FF6600?style=for-the-badge&logo=apache-mxnet&logoColor=white" alt="MXNet" height="25"/>](https://mxnet.apache.org/) -->
-<!-- [<img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torch" height="25"/>](http://torch.ch/) -->
-
-<!-- <p align="center">
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sickit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-image.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="sickit-image" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="opencv" width="40" height="40"/>
-  </a>
-</p> -->
 
 ## Operating Systems
 
