@@ -6,14 +6,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlam&hide=javascript,html,jupyter%20notebook&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ![Profile Picture](profile_picture.jpg) -->
 
-![Profile Picture](profile_picture.jpg)
+[<img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">](https://imansour.net/)
 
 I'm Islam, a passionate space engineer and researcher with a keen interest in integrating machine learning and physical models for the retrieval of geophysical parameters from interferometric SAR data. I'm particularly interested in earth observation and remote sensing applications.
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamalam&show_icons=true&locale=en&theme=dark" alt="islamalam" /></p> -->
-
-
 
 ## About Me
 
