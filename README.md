@@ -120,6 +120,8 @@ If you'd like to learn more about my work or discuss potential collaboration opp
 [<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" height="25"/>](https://orcid.org/0000-0003-3114-6515)
 [<img src="https://img.shields.io/badge/Scopus-E2B31F?style=for-the-badge&logo=scopus&logoColor=white" alt="scopus" height="25"/>](https://www.scopus.com/authid/detail.uri?authorId=56528028400)
 [<img src="https://img.shields.io/keybase/pgp/imansour?style=for-the-badge&logo=keybase&logoColor=white" alt="keybase" height="25"/>](https://keybase.io/imansour)
+[<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="google-maps" height="25"/>](https://www.google.com/maps/contrib/101697890704150588819/photos/@48.9969965,9.5401716,8z/data=!4m3!8m2!3m1!1e1)
+
 
 
 [![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamAlam&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
