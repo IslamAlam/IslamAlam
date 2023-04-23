@@ -8,10 +8,13 @@
 
 <!-- ![Profile Picture](profile_picture.jpg) -->
 
-<img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">
+<!-- <img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">
 
-<!-- [<img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">](https://imansour.net/) -->
-
+![profile_picture](https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA){: .rounded}
+ -->
+<!-- 
+[<img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">](https://imansour.net/)
+ -->
 
 I'm Islam, a passionate space engineer and researcher with a keen interest in integrating machine learning and physical models for the retrieval of geophysical parameters from interferometric SAR data. I'm particularly interested in earth observation and remote sensing applications.
 
@@ -28,24 +31,6 @@ Currently, I am pursuing my Ph.D. at Microwaves and Radar Institute, German Aero
 ## My Interests
 
 My passion lies in space technology and engineering, and I have a keen interest in developing innovative solutions that can help us explore and understand the universe better. I am particularly interested in the integration of machine learning and physical models for remote sensing applications, especially in SAR data analysis.
-
-<!-- <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c-plus" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
-  </a>
-</p> -->
 
 ## Programming Languages
 
