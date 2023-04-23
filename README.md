@@ -6,7 +6,7 @@ I'm Islam, a passionate space engineer and researcher with a keen interest in in
 
 ## About Me
 
-I completed my Bachelor's degree in Space Engineering from Istanbul Technical University in 2017, where I developed a strong foundation in space technology and engineering. After that, I worked as a system and software engineer at Bosch, where I was involved in developing automation parking algorithms for advanced driver assistance systems for OEM.
+I completed my Bachelor's degree in Space Engineering from Istanbul Technical University in 2017, where I developed a strong foundation in space technology and engineering. After that, I worked as a system and software engineer at Bosch, where I was involved in developing automation parking algorithms for advanced driver assistance systems for OEMs.
 
 In 2019, I moved to Munich to pursue my Master's degree in Earth Oriented Space and Science Technology (ESPACE) at Technische Universität München. During my Master's, I worked on DLR's Permafrost Airborne SAR Experiment (PermASAR) and focused on understanding the properties of permafrost for the PermASAR measuring campaign at the Microwaves and Radar Institute, German Aerospace Center.
 
