@@ -1,21 +1,5 @@
 # Hi there! 👋
 
-[![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamAlam&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlam&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlam&hide=javascript,html,jupyter%20notebook&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![Profile Picture](profile_picture.jpg) -->
-
-<!-- <img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">
-
-![profile_picture](https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA){: .rounded}
- -->
-<!-- 
-[<img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">](https://imansour.net/)
- -->
-
 I'm Islam, a passionate space engineer and researcher with a keen interest in integrating machine learning and physical models for the retrieval of geophysical parameters from interferometric SAR data. I'm particularly interested in earth observation and remote sensing applications.
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamalam&show_icons=true&locale=en&theme=dark" alt="islamalam" /></p> -->
@@ -130,3 +114,21 @@ If you'd like to learn more about my work or discuss potential collaboration opp
 [<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" height="25"/>](https://orcid.org/0000-0003-3114-6515)
 [<img src="https://img.shields.io/badge/Scopus-E2B31F?style=for-the-badge&logo=scopus&logoColor=white" alt="scopus" height="25"/>](https://www.scopus.com/authid/detail.uri?authorId=56528028400)
 [<img src="https://img.shields.io/keybase/pgp/imansour?style=for-the-badge&logo=keybase&logoColor=white" alt="keybase" height="25"/>](https://keybase.io/imansour)
+
+
+[![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamAlam&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlam&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlam&hide=javascript,html,jupyter%20notebook&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![Profile Picture](profile_picture.jpg) -->
+
+<!-- <img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">
+
+![profile_picture](https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA){: .rounded}
+ -->
+<!-- 
+[<img src="https://media.licdn.com/dms/image/C4E03AQEw6Avz3AlfUA/profile-displayphoto-shrink_800_800/0/1634291831609?e=2147483647&v=beta&t=RbCGaqS_-vScEqakBKmCyCuIh2JmTBH1eupHmc9qgJA" alt="profile_picture" style="border-radius: 50%; width: 150px; height: 150px;">](https://imansour.net/)
+ -->
+
