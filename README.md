@@ -70,6 +70,12 @@ My passion lies in space technology and engineering, and I have a keen interest 
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual-studio-code" height="25"/>](https://code.visualstudio.com/)
 [<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" height="25"/>](https://neovim.io/)
 
+## Dot-files
+
+I use [<img src="https://img.shields.io/badge/Chezmoi-4EAFB2?style=for-the-badge&logo=arch-linux&logoColor=white" alt="chezmoi" height="20"/>](https://github.com/twpayne/chezmoi) to manage my dot-files, which includes various configuration files for tools I use on a daily basis. This optimization of my workflow allows me to quickly and easily configure my environment on any machine I work on. Check out my [<img src="https://img.shields.io/badge/dot--files-000000?style=for-the-badge&logo=github&logoColor=white" alt="dotfiles" height="20"/>](https://github.com/IslamAlam/dotfiles)
+to see my configurations.
+
+
 <!-- ## Projects
 
 - [Project 1](link_to_project_1): Brief description of project 1.
