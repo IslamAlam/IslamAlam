@@ -143,28 +143,28 @@ If you'd like to learn more about my work or discuss potential collaboration opp
 - **Lived In:** 
 
 
-  [<img src="https://img.shields.io/badge/🇪🇬-Egypt-000000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="egypt" height="20"/>](https://en.wikipedia.org/wiki/Egypt)
-  [<img src="https://img.shields.io/badge/🇹🇷-Turkey-FF0000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="turkey" height="20"/>](https://en.wikipedia.org/wiki/Turkey)
-  [<img src="https://img.shields.io/badge/🇨🇿-Czechia-FFC100?style=for-the-badge&logo=flag-icon&logoColor=white" alt="czechia" height="20"/>](https://en.wikipedia.org/wiki/Czech_Republic)
-  [<img src="https://img.shields.io/badge/🇭🇺-Hungary-008000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="hungary" height="20"/>](https://en.wikipedia.org/wiki/Hungary)
-  [<img src="https://img.shields.io/badge/🇩🇪-Germany-000000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="germany" height="20"/>](https://en.wikipedia.org/wiki/Germany)
+  [<img src="https://img.shields.io/badge/🇪🇬-Egypt-000000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="egypt" height="25"/>](https://en.wikipedia.org/wiki/Egypt)
+  [<img src="https://img.shields.io/badge/🇹🇷-Turkey-FF0000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="turkey" height="25"/>](https://en.wikipedia.org/wiki/Turkey)
+  [<img src="https://img.shields.io/badge/🇨🇿-Czechia-FFC100?style=for-the-badge&logo=flag-icon&logoColor=white" alt="czechia" height="25"/>](https://en.wikipedia.org/wiki/Czech_Republic)
+  [<img src="https://img.shields.io/badge/🇭🇺-Hungary-008000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="hungary" height="25"/>](https://en.wikipedia.org/wiki/Hungary)
+  [<img src="https://img.shields.io/badge/🇩🇪-Germany-000000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="germany" height="25"/>](https://en.wikipedia.org/wiki/Germany)
 
 - **Visited:**
 
-  [<img src="https://img.shields.io/badge/🇸🇰-Slovakia-ED1C24?style=for-the-badge&logo=flag-icon&logoColor=white" alt="slovakia" height="20"/>](https://en.wikipedia.org/wiki/Slovakia)
-  [<img src="https://img.shields.io/badge/🇦🇹-Austria-ED2939?style=for-the-badge&logo=flag-icon&logoColor=white" alt="austria" height="20"/>](https://en.wikipedia.org/wiki/Austria)
-  [<img src="https://img.shields.io/badge/🇨🇭-Switzerland-FFD700?style=for-the-badge&logo=flag-icon&logoColor=white" alt="switzerland" height="20"/>](https://en.wikipedia.org/wiki/Switzerland)
-  [<img src="https://img.shields.io/badge/🇪🇸-Spain-FFC400?style=for-the-badge&logo=flag-icon&logoColor=white" alt="spain" height="20"/>](https://en.wikipedia.org/wiki/Spain)
-  [<img src="https://img.shields.io/badge/🇫🇷-France-0051A5?style=for-the-badge&logo=flag-icon&logoColor=white" alt="france" height="20"/>](https://en.wikipedia.org/wiki/France)
-  [<img src="https://img.shields.io/badge/🇵🇹-Portugal-0072C6?style=for-the-badge&logo=flag-icon&logoColor=white" alt="portugal" height="20"/>](https://en.wikipedia.org/wiki/Portugal)
-  [<img src="https://img.shields.io/badge/🇺🇸-United%20States-3C3B6E?style=for-the-badge&logo=flag-icon&logoColor=white" alt="united states" height="20"/>](https://en.wikipedia.org/wiki/United_States)
-  [<img src="https://img.shields.io/badge/🇬🇧-United%20Kingdom-00247D?style=for-the-badge&logo=flag-icon&logoColor=white" alt="united kingdom" height="20"/>](https://en.wikipedia.org/wiki/United_Kingdom)
-  [<img src="https://img.shields.io/badge/🇮🇹-Italy-CE1126?style=for-the-badge&logo=flag-icon&logoColor=white" alt="italy" height="20"/>](https://en.wikipedia.org/wiki/Italy)
-  [<img src="https://img.shields.io/badge/🇷🇸-Serbia-0F4D92?style=for-the-badge&logo=flag-icon&logoColor=white" alt="serbia" height="20"/>](https://en.wikipedia.org/wiki/Serbia)
-  [<img src="https://img.shields.io/badge/🇸🇪-Sweden-006AA7?style=for-the-badge&logo=flag-icon&logoColor=white" alt="sweden" height="20"/>](https://en.wikipedia.org/wiki/Sweden)
-  [<img src="https://img.shields.io/badge/🇩🇰-Denmark-FFD700?style=for-the-badge&logo=flag-icon&logoColor=white" alt="denmark" height="20"/>](https://en.wikipedia.org/wiki/Denmark)
-  [<img src="https://img.shields.io/badge/🇱🇮-Liechtenstein-ED2939?style=for-the-badge&logo=flag-icon&logoColor=white" alt="liechtenstein" height="20"/>](https://en.wikipedia.org/wiki/Liechtenstein)
-  [<img src="https://img.shields.io/badge/🇱🇺-Luxembourg-ED1C24?style=for-the-badge&logo=flag-icon&logoColor=white" alt="luxembourg" height="20"/>](https://en.wikipedia.org/wiki/Luxembourg)
+  [<img src="https://img.shields.io/badge/🇸🇰-Slovakia-ED1C24?style=for-the-badge&logo=flag-icon&logoColor=white" alt="slovakia" height="25"/>](https://en.wikipedia.org/wiki/Slovakia)
+  [<img src="https://img.shields.io/badge/🇦🇹-Austria-ED2939?style=for-the-badge&logo=flag-icon&logoColor=white" alt="austria" height="25"/>](https://en.wikipedia.org/wiki/Austria)
+  [<img src="https://img.shields.io/badge/🇨🇭-Switzerland-FFD700?style=for-the-badge&logo=flag-icon&logoColor=white" alt="switzerland" height="25"/>](https://en.wikipedia.org/wiki/Switzerland)
+  [<img src="https://img.shields.io/badge/🇪🇸-Spain-FFC400?style=for-the-badge&logo=flag-icon&logoColor=white" alt="spain" height="25"/>](https://en.wikipedia.org/wiki/Spain)
+  [<img src="https://img.shields.io/badge/🇫🇷-France-0051A5?style=for-the-badge&logo=flag-icon&logoColor=white" alt="france" height="25"/>](https://en.wikipedia.org/wiki/France)
+  [<img src="https://img.shields.io/badge/🇵🇹-Portugal-0072C6?style=for-the-badge&logo=flag-icon&logoColor=white" alt="portugal" height="25"/>](https://en.wikipedia.org/wiki/Portugal)
+  [<img src="https://img.shields.io/badge/🇺🇸-United%20States-3C3B6E?style=for-the-badge&logo=flag-icon&logoColor=white" alt="united states" height="25"/>](https://en.wikipedia.org/wiki/United_States)
+  [<img src="https://img.shields.io/badge/🇬🇧-United%20Kingdom-00247D?style=for-the-badge&logo=flag-icon&logoColor=white" alt="united kingdom" height="25"/>](https://en.wikipedia.org/wiki/United_Kingdom)
+  [<img src="https://img.shields.io/badge/🇮🇹-Italy-CE1126?style=for-the-badge&logo=flag-icon&logoColor=white" alt="italy" height="25"/>](https://en.wikipedia.org/wiki/Italy)
+  [<img src="https://img.shields.io/badge/🇷🇸-Serbia-0F4D92?style=for-the-badge&logo=flag-icon&logoColor=white" alt="serbia" height="25"/>](https://en.wikipedia.org/wiki/Serbia)
+  [<img src="https://img.shields.io/badge/🇸🇪-Sweden-006AA7?style=for-the-badge&logo=flag-icon&logoColor=white" alt="sweden" height="25"/>](https://en.wikipedia.org/wiki/Sweden)
+  [<img src="https://img.shields.io/badge/🇩🇰-Denmark-FFD700?style=for-the-badge&logo=flag-icon&logoColor=white" alt="denmark" height="25"/>](https://en.wikipedia.org/wiki/Denmark)
+  [<img src="https://img.shields.io/badge/🇱🇮-Liechtenstein-ED2939?style=for-the-badge&logo=flag-icon&logoColor=white" alt="liechtenstein" height="25"/>](https://en.wikipedia.org/wiki/Liechtenstein)
+  [<img src="https://img.shields.io/badge/🇱🇺-Luxembourg-ED1C24?style=for-the-badge&logo=flag-icon&logoColor=white" alt="luxembourg" height="25"/>](https://en.wikipedia.org/wiki/Luxembourg)
 
 
  
