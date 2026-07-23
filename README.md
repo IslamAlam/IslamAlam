@@ -106,6 +106,7 @@ If you'd like to learn more about my work or discuss potential collaboration opp
   [<img src="https://img.shields.io/badge/🇭🇷-Croatia-171796?style=for-the-badge&logo=flag-icon&logoColor=white" alt="croatia" height="25"/>](https://en.wikipedia.org/wiki/Croatia)
   [<img src="https://img.shields.io/badge/🇨🇾-Cyprus-D57800?style=for-the-badge&logo=flag-icon&logoColor=white" alt="cyprus" height="25"/>](https://en.wikipedia.org/wiki/Cyprus)
   [<img src="https://img.shields.io/badge/🇩🇰-Denmark-FFD700?style=for-the-badge&logo=flag-icon&logoColor=white" alt="denmark" height="25"/>](https://en.wikipedia.org/wiki/Denmark)
+  [<img src="https://img.shields.io/badge/🇫🇮-Finland-003580?style=for-the-badge&logo=flag-icon&logoColor=white" alt="finland" height="25"/>](https://en.wikipedia.org/wiki/Finland)
   [<img src="https://img.shields.io/badge/🇫🇷-France-0051A5?style=for-the-badge&logo=flag-icon&logoColor=white" alt="france" height="25"/>](https://en.wikipedia.org/wiki/France)
   [<img src="https://img.shields.io/badge/🇬🇷-Greece-0D5EAF?style=for-the-badge&logo=flag-icon&logoColor=white" alt="greece" height="25"/>](https://en.wikipedia.org/wiki/Greece)
   [<img src="https://img.shields.io/badge/🇻🇦-Vatican%20City-FFE000?style=for-the-badge&logo=flag-icon&logoColor=white" alt="vatican city" height="25"/>](https://en.wikipedia.org/wiki/Vatican_City)
